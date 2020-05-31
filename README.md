@@ -1,5 +1,7 @@
 # git_study_2020
 
+
+### index.html
 ```html
 <!DOCTYPE html>
 <html>
@@ -14,6 +16,7 @@
 </html>
 ```
 
+### style.css
 ```css
 p{
   font-size: 40px;
