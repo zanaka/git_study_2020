@@ -1,6 +1,7 @@
 # git_study_2020
 
 master
+zanaka
 
 ### index.html
 ```html
