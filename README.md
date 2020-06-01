@@ -1,6 +1,9 @@
 # git_study_2020
 
 master
+
+
+naga55
 zanaka
 
 ### index.html
@@ -25,3 +28,4 @@ p{
   color: red;
 }
 ```
+
