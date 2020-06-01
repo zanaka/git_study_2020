@@ -2,8 +2,6 @@
 
 master
 
-revert test
-
 ### index.html
 ```html
 <!DOCTYPE html>
